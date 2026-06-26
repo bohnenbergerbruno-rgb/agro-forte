@@ -1,0 +1,3 @@
+function mensagem(){
+    alert("🌱 O futuro sustentável depende das atitudes de todos! Valorize o agro consciente.");
+}
